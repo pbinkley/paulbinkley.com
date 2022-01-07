@@ -1,10 +1,9 @@
+---
+title: Jazz Guitar
+layout: page
+---
+
 ![](Jazz_Guitar_files/header.jpg)
-
-![Paul Binkley](Jazz_Guitar_files/shapeimage_1.png)
-
-[Home](Home.html "Home.html") [Bio](Biography.html "Biography.html") [Classical Guitar](Classical_Guitar.html "Classical_Guitar.html") [Jazz Guitar](Jazz_Guitar.html "") [Mandolin](Mandolin.html "Mandolin.html") [Lessons](Lessons.html "Lessons.html") [Ensembles](Ensembles.html "Ensembles.html") [Contact](Contact.html "Contact.html")
-
-Jazz Guitar
 
 1. -Swing Tunes
 
@@ -13,9 +12,6 @@ Jazz Guitar
 3. -Ballads
 
 4. -Contemporary
-
-
-Jazz Guitar
 
 Paul studied jazz guitar at Berklee School of Music with William Leavitt and Dave Spadazzi.  He regularly performs jazz as a solo artist or with friends.  Repertoire includes jazz standards, Brazilian bossa nova and contemporary tunes.  To hear samples please click the links below.
 

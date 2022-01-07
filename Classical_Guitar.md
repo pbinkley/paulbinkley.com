@@ -1,10 +1,9 @@
+---
+title: Classical Guitar
+layout: page
+---
+
 ![](Classical_Guitar_files/header.jpg)
-
-![Paul Binkley](Classical_Guitar_files/shapeimage_1.png)
-
-[Home](Home.html "Home.html") [Bio](Biography.html "Biography.html") [Classical Guitar](Classical_Guitar.html "") [Jazz Guitar](Jazz_Guitar.html "Jazz_Guitar.html") [Mandolin](Mandolin.html "Mandolin.html") [Lessons](Lessons.html "Lessons.html") [Ensembles](Ensembles.html "Ensembles.html") [Contact](Contact.html "Contact.html")
-
-Classical Guitar
 
 1. -Renaissance
 
@@ -16,14 +15,13 @@ Classical Guitar
 
 5. -South American
 
-
-Classical Guitar
-
 Paul’s main influences for classical guitar are Julian Bream and Andrés Segovia.  He regularly performs baroque, classical, Renaissance and Spanish guitar music at events in the San Francisco Bay Area and Napa Valley.
 
 His instructors included Phillip Roshegar, George Sakellariou, Bruce French, and David Tannenbaum.  He also performed at master classes of Leo Brouwer, Alexander Lagoya, Michael Lorimer, David Russel, Frederick Hand and many others.
 
 To hear samples of Paul’s classical guitar playing, please click the buttons below.
+
+{% include video.html image="Classical_Guitar_files/bachcello.jpg" video="Media/bachprelude.mov" %}
 
 ![](Classical_Guitar_files/bachcello.jpg)
 

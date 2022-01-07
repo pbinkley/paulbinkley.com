@@ -1,10 +1,9 @@
+---
+title: Ensembles
+layout: page
+---
+
 ![](Ensembles_files/header.jpg)
-
-![Paul Binkley](Ensembles_files/shapeimage_1.png)
-
-[Home](Home.html "Home.html") [Bio](Biography.html "Biography.html") [Classical Guitar](Classical_Guitar.html "Classical_Guitar.html") [Jazz Guitar](Jazz_Guitar.html "Jazz_Guitar.html") [Mandolin](Mandolin.html "Mandolin.html") [Lessons](Lessons.html "Lessons.html") [Ensembles](Ensembles.html "") [Contact](Contact.html "Contact.html")
-
-Ensembles
 
 1. -Duos with flute, violin or cello
 

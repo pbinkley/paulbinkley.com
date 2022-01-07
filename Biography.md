@@ -1,12 +1,11 @@
+---
+title: Biography
+layout: page
+---
+
 ![](Biography_files/header.jpg)
 
-![Paul Binkley](Biography_files/shapeimage_1.png)
-
-[Home](Home.html "Home.html") [Bio](Biography.html "") [Classical Guitar](Classical_Guitar.html "Classical_Guitar.html") [Jazz Guitar](Jazz_Guitar.html "Jazz_Guitar.html") [Mandolin](Mandolin.html "Mandolin.html") [Lessons](Lessons.html "Lessons.html") [Ensembles](Ensembles.html "Ensembles.html") [Contact](Contact.html "Contact.html")
-
 ![](Biography_files/shapeimage_2.png)
-
-Biography
 
 For the last three decades, Paul has been an active member of San Francisco’s musical community, playing music in all sorts of situations. Paul has performed as an ensemble player with the San Francisco Symphony, San Francisco Contemporary Music Players, the San Francisco Opera and Ballet Orchestras, the Los Angeles Opera Orchestra and many other groups in music ranging from baroque opera to modern chamber music.
 
