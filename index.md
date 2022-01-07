@@ -3,8 +3,6 @@ title: Home
 layout: page
 ---
 
-![](Home_files/header.jpg)
-
 ![](Home_files/ContactSheet-006_2.jpg)
 
 Paul Binkley plays and teaches classical guitar, jazz guitar and mandolin.

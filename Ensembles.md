@@ -3,7 +3,7 @@ title: Ensembles
 layout: page
 ---
 
-![](Ensembles_files/header.jpg)
+
 
 1. -Duos with flute, violin or cello
 

@@ -3,7 +3,7 @@ title: Classical Guitar
 layout: page
 ---
 
-![](Classical_Guitar_files/header.jpg)
+
 
 ## Classical Guitar
 

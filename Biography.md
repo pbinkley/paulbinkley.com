@@ -3,7 +3,7 @@ title: Biography
 layout: page
 ---
 
-![](Biography_files/header.jpg)
+
 
 ![](Biography_files/shapeimage_2.png)
 

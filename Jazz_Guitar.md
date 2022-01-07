@@ -3,7 +3,7 @@ title: Jazz Guitar
 layout: page
 ---
 
-![](Jazz_Guitar_files/header.jpg)
+
 
 ## Jazz Guitar
 

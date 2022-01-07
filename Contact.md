@@ -3,7 +3,7 @@ title: Contact
 layout: page
 ---
 
-![](Contact_files/header.jpg)
+
 
 Vox 415.282.0840
 
