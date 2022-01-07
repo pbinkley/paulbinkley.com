@@ -1,0 +1,14 @@
+.audioPlayer {
+  width: 117px;
+  height: 156px;
+  margin: 10px;
+  background-size: cover;
+  position: relative;
+  display: inline-block;
+}
+
+.audioPlayer audio{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}

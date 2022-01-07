@@ -5,89 +5,66 @@ layout: page
 
 ![](Classical_Guitar_files/header.jpg)
 
-1. -Renaissance
+## Classical Guitar
 
-2. -Baroque
+- Renaissance
+- Baroque
+- Classical
+- Spanish
+- South American
 
-3. -Classical
+Paul’s main influences for classical guitar are Julian Bream and Andrés Segovia. He regularly performs baroque, classical, Renaissance and Spanish guitar music at events in the San Francisco Bay Area and Napa Valley.
 
-4. -Spanish
-
-5. -South American
-
-Paul’s main influences for classical guitar are Julian Bream and Andrés Segovia.  He regularly performs baroque, classical, Renaissance and Spanish guitar music at events in the San Francisco Bay Area and Napa Valley.
-
-His instructors included Phillip Roshegar, George Sakellariou, Bruce French, and David Tannenbaum.  He also performed at master classes of Leo Brouwer, Alexander Lagoya, Michael Lorimer, David Russel, Frederick Hand and many others.
+His instructors included Phillip Roshegar, George Sakellariou, Bruce French, and David Tannenbaum. He also performed at master classes of Leo Brouwer, Alexander Lagoya, Michael Lorimer, David Russel, Frederick Hand and many others.
 
 To hear samples of Paul’s classical guitar playing, please click the buttons below.
 
-{% include video.html image="Classical_Guitar_files/bachcello.jpg" video="Media/bachprelude.mov" %}
+<div>
+{% include audio.html image="Classical_Guitar_files/bachcello.jpg" audio="Media/bachprelude" %}
 
-![](Classical_Guitar_files/bachcello.jpg)
+{% include audio.html image="Classical_Guitar_files/Prelude-WTC.jpg" audio="Media/Prelude%20WTC" %}
 
-![](Classical_Guitar_files/Prelude-WTC.jpg)
+{% include audio.html image="Classical_Guitar_files/Jesu-Joy.jpg" audio="Media/Jesu" %}
+</div>
 
-![](Classical_Guitar_files/Jesu-Joy.jpg)
+<div>
+{% include audio.html image="Classical_Guitar_files/elnoy.jpg" audio="Media/el%20noy-4" %}
 
-![](Classical_Guitar_files/paulbinkley.jpg)
+{% include audio.html image="Classical_Guitar_files/canarios.jpg" audio="Media/canarios-3" %}
 
-![](Classical_Guitar_files/elnoy.jpg)
+{% include audio.html image="Classical_Guitar_files/sleepers.jpg" audio="Media/Wachet%20Auf" %}
+</div>
 
-![](Classical_Guitar_files/canarios.jpg)
+## Sample Repertoire List
 
-![](Classical_Guitar_files/sleepers.jpg)
+### Renaissance and Baroque
 
-Sample Repertoire List
+- Bach: Cello Suite No. 1 in D, Lute Suite No. 4 in E Major
+- Chilesotti: Six Lute Pieces of the Renaissance
+- Dowland: Allemande, Queen Elizabeth's Galliard
+- Narvaez: Guardame las Vacas
+- Sanz: Canarios
+- Milan: Five Pavans
+- Vivaldi: Concerto in D Major
+- Scarlatti: Sonata in A Major
 
-Renaissance and Baroque
+### Spanish
 
-Bach: Cello Suite No. 1 in D, Lute Suite No. 4 in E Major
+- Albeniz: Granada, Leyenda, Cadiz
+- Sor: Minuet and Rondo
+- Granados: Spanish Dance No. 5
+- Llobet: Catalonian Folk Songs
+- Tarrega: Caprichio Arabe, Recuerdos de la Alhambra, Adelita, Lagrima, Las Dos Hermanitas
+- Torroba: Madronos, Sonatina
+- Anonymous: Romanza, Linda, Celeste y Blanco
+- Lecuona: Malaguena
+- Malats: Serenata Espanola
 
-Chilesotti: Six Lute Pieces of the Renaissance
+### South American
 
-Dowland: Allemande, Queen Elizabeth's Galliard
-
-Narvaez: Guardame las Vacas
-
-Sanz: Canarios
-
-Milan: Five Pavans
-
-Vivaldi: Concerto in D Major
-
-Scarlatti: Sonata in A Major
-
-Spanish
-
-Albeniz: Granada, Leyenda, Cadiz
-
-Sor: Minuet and Rondo
-
-Granados: Spanish Dance No. 5
-
-Llobet: Catalonian Folk Songs
-
-Tarrega: Caprichio Arabe, Recuerdos de la Alhambra, Adelita, Lagrima, Las Dos Hermanitas
-
-Torroba: Madronos, Sonatina
-
-Anonymous: Romanza, Linda, Celeste y Blanco
-
-Lecuona: Malaguena
-
-Malats: Serenata Espanola
-
-South American
-
-Villa-Lobos: Five Preludes, Choros #1
-
-Lauro: Four Venezuelan Waltzes, Maria Luisa
-
-Pernambuco: Sons de Carilhoes, Po de Mico
-
-Brouwer: Berceuse (Afro-Cuban Lullaby)
-
-Barrios: Ultimo Cancion
-
-Jose Ferrer: Vals Español
-
+- Villa-Lobos: Five Preludes, Choros #1
+- Lauro: Four Venezuelan Waltzes, Maria Luisa
+- Pernambuco: Sons de Carilhoes, Po de Mico
+- Brouwer: Berceuse (Afro-Cuban Lullaby)
+- Barrios: Ultimo Cancion
+- Jose Ferrer: Vals Español
