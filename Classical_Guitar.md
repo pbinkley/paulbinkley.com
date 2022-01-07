@@ -20,19 +20,19 @@ His instructors included Phillip Roshegar, George Sakellariou, Bruce French, and
 To hear samples of Paul’s classical guitar playing, please click the buttons below.
 
 <div>
-{% include audio.html image="Classical_Guitar_files/bachcello.jpg" audio="Media/bachprelude" %}
+{% include audio.html w="117" h="156" image="Classical_Guitar_files/bachcello.jpg" audio="Media/bachprelude" %}
 
-{% include audio.html image="Classical_Guitar_files/Prelude-WTC.jpg" audio="Media/Prelude%20WTC" %}
+{% include audio.html w="117" h="156" image="Classical_Guitar_files/Prelude-WTC.jpg" audio="Media/Prelude%20WTC" %}
 
-{% include audio.html image="Classical_Guitar_files/Jesu-Joy.jpg" audio="Media/Jesu" %}
+{% include audio.html w="117" h="156" image="Classical_Guitar_files/Jesu-Joy.jpg" audio="Media/Jesu" %}
 </div>
 
 <div>
-{% include audio.html image="Classical_Guitar_files/elnoy.jpg" audio="Media/el%20noy-4" %}
+{% include audio.html w="117" h="156" image="Classical_Guitar_files/elnoy.jpg" audio="Media/el%20noy-4" %}
 
-{% include audio.html image="Classical_Guitar_files/canarios.jpg" audio="Media/canarios-3" %}
+{% include audio.html w="117" h="156" image="Classical_Guitar_files/canarios.jpg" audio="Media/canarios-3" %}
 
-{% include audio.html image="Classical_Guitar_files/sleepers.jpg" audio="Media/Wachet%20Auf" %}
+{% include audio.html w="117" h="156" image="Classical_Guitar_files/sleepers.jpg" audio="Media/Wachet%20Auf" %}
 </div>
 
 ## Sample Repertoire List
