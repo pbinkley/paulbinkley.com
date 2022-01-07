@@ -3,17 +3,18 @@ title: Jazz Guitar
 layout: page
 ---
 
+<div class="side-block" markdown=1>
 
+![](Jazz_Guitar_files/photoforgephoto.jpg)
 
-## Jazz Guitar
+**Jazz Guitar**
 
-1. -Swing Tunes
+- Swing Tunes
+- Bossa Nova
+- Ballads
+- Contemporary
 
-2. -Bossa Nova
-
-3. -Ballads
-
-4. -Contemporary
+</div>
 
 Paul studied jazz guitar at Berklee School of Music with William Leavitt and Dave Spadazzi. He regularly performs jazz as a solo artist or with friends. Repertoire includes jazz standards, Brazilian bossa nova and contemporary tunes. To hear samples please click the links below.
 
@@ -32,8 +33,6 @@ Paul studied jazz guitar at Berklee School of Music with William Leavitt and Dav
 
 {% include audio.html w="130" h="135" image="Jazz_Guitar_files/andilove.jpg" audio="Media/andiloveher" %}
 </div>
-
-![](Jazz_Guitar_files/photoforgephoto.jpg)
 
 ## Sample Repertoire List
 

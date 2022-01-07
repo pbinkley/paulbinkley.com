@@ -3,9 +3,11 @@ title: Biography
 layout: page
 ---
 
-
+<div class="side-block" markdown=1>
 
 ![](Biography_files/shapeimage_2.png)
+
+</div>
 
 For the last three decades, Paul has been an active member of San Francisco’s musical community, playing music in all sorts of situations. Paul has performed as an ensemble player with the San Francisco Symphony, San Francisco Contemporary Music Players, the San Francisco Opera and Ballet Orchestras, the Los Angeles Opera Orchestra and many other groups in music ranging from baroque opera to modern chamber music.
 

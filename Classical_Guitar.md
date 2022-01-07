@@ -4,14 +4,17 @@ layout: page
 ---
 
 
+<div class="side-block" markdown=1>
 
-## Classical Guitar
+**Classical Guitar**
 
 - Renaissance
 - Baroque
 - Classical
 - Spanish
 - South American
+
+</div>
 
 Paul’s main influences for classical guitar are Julian Bream and Andrés Segovia. He regularly performs baroque, classical, Renaissance and Spanish guitar music at events in the San Francisco Bay Area and Napa Valley.
 
