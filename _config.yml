@@ -36,7 +36,7 @@ plugins:
 
 # order of tabs - this might only work in Minima
 header_pages:
-  - Home.md
+  - index.md
   - Biography.md
   - Classical_Guitar.md
   - Jazz_Guitar.md
