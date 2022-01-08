@@ -18,10 +18,22 @@
 #main-title {
   background-image: url("images/header.jpg");
   height: 179px;
+  border-radius: 10px;
+}
+
+.site-header {
+  border-bottom: 0px;
+}
+
+article {
+  border-radius: 10px;
 }
 
 .post-content {
   min-height: 450px;
+}
+.page-content {
+  padding-top: 0px;
 }
 
 .site-title img {
@@ -40,7 +52,7 @@
   padding: 10px;
   margin: 0 0 0 2em;
   font-size: 14px;
-
+  border-radius: 10px;
   -webkit-box-shadow: 3px 3px 20px -9px rgba(28,83,162,0.96); 
   box-shadow: 3px 3px 20px -9px rgba(28,83,162,0.96);
 }
