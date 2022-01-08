@@ -5,7 +5,7 @@ layout: page
 
 <div class="side-block" markdown=1>
 
-![](Contact_files/DSC03928.jpg)
+<img src="Contact_files/DSC03928.jpg">
 
 </div>
 

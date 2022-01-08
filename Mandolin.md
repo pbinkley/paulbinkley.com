@@ -5,7 +5,7 @@ layout: page
 
 <div class="side-block" markdown=1>
 
-![](Mandolin_files/shapeimage_2.png)
+<img src="Mandolin_files/shapeimage_2.png">
 
 **Mandolin**
 
