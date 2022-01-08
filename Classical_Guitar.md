@@ -1,5 +1,5 @@
 ---
-title: Classical Guitar
+title: "Classical\u00a0Guitar"
 layout: page
 ---
 

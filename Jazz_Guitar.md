@@ -1,5 +1,5 @@
 ---
-title: Jazz Guitar
+title: "Jazz\u00a0Guitar"
 layout: page
 ---
 
