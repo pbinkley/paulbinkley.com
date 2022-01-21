@@ -1,5 +1,4 @@
 ---
-title: Home
 layout: page
 ---
 
@@ -16,4 +15,3 @@ Experience
 </div>
 
 ![](Home_files/ContactSheet-006_2.jpg)
-
