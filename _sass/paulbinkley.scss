@@ -30,7 +30,8 @@ article {
 }
 
 .page-content {
-  background-color: white;
+  background-image: url("background.jpg");
+  background-repeat: repeat;
   padding-top: 0px;
 }
 
@@ -44,9 +45,11 @@ article {
 .side-block {
   float: right;
   width: 175px;
-  height: 331px;
+  min-height: 131px;
   border: 1px solid grey;
   background-color: #D8D8D8;
+  background-image: url("backgroundimage_1_1.png");
+  background-repeat: repeat;
   padding: 10px;
   margin: 0 0 20px 2em;
   font-size: 14px;
@@ -69,25 +72,24 @@ article {
 
 .site-nav .page-link {
   color: white;
-  @include media-query($on-palm) {
-    color: black;
-  }
-}
-
-.page-content {
-  background-color: $background-color;
 }
 
 article {
-  background-color: white;
   padding: 1em;
 }
 
-.site-nav {
-  @include media-query($on-palm) {
-    background-color: white;
-    color: black;
-    border: 1px solid black;
+@include media-query($on-palm) {
+  .side-block {
+    float: none;
+    width: 80%;
+  }
+  .site-nav .menu-icon > svg {
+    fill: white;
+  }
+  .post-content {
+    align: center;
+  }
+  .site-nav {
+    top: 140px;
   }
 }
-
