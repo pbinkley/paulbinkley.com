@@ -22,12 +22,12 @@ His instructors included Phillip Roshegar, George Sakellariou, Bruce French, and
 
 To hear samples of Paul’s classical guitar playing, please click the buttons below.
 
-{% include audio.html w="117" h="156" image="Classical_Guitar_files/bachcello.jpg" audio="Media/bachprelude" %}
-{% include audio.html w="117" h="156" image="Classical_Guitar_files/Prelude-WTC.jpg" audio="Media/Prelude%20WTC" %}
-{% include audio.html w="117" h="156" image="Classical_Guitar_files/Jesu-Joy.jpg" audio="Media/Jesu" %}
-{% include audio.html w="117" h="156" image="Classical_Guitar_files/elnoy.jpg" audio="Media/el%20noy-4" %}
-{% include audio.html w="117" h="156" image="Classical_Guitar_files/canarios.jpg" audio="Media/canarios-3" %}
-{% include audio.html w="117" h="156" image="Classical_Guitar_files/sleepers.jpg" audio="Media/Wachet%20Auf" %}
+{% include audio.html w="117" h="156" image="Classical_Guitar_files/bachcello.jpg" audio="Media/bachprelude" title="Bach Cello Prelude" %}
+{% include audio.html w="117" h="156" image="Classical_Guitar_files/Prelude-WTC.jpg" audio="Media/Prelude%20WTC" title="Prelude, Well-Tempered Clavier" %}
+{% include audio.html w="117" h="156" image="Classical_Guitar_files/Jesu-Joy.jpg" audio="Media/Jesu" title="Jesu Joy of Man's Desiring" %}
+{% include audio.html w="117" h="156" image="Classical_Guitar_files/elnoy.jpg" audio="Media/el%20noy-4" title="El Noy de la Mare" %}
+{% include audio.html w="117" h="156" image="Classical_Guitar_files/canarios.jpg" audio="Media/canarios-3" title="Canarios by Gaspar Sanz" %}
+{% include audio.html w="117" h="156" image="Classical_Guitar_files/sleepers.jpg" audio="Media/Wachet%20Auf" title="Sleepers Awake" %}
 
 ## Sample Repertoire List
 
