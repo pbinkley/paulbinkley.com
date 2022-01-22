@@ -5,6 +5,7 @@ layout: page
 
 
 <div class="side-block" markdown=1>
+<img src="{{ 'pb_plain.jpg' | prepend: '/assets/images/' | relative_url }}" alt="Paul playing guitar">
 
 **Classical Guitar**
 
