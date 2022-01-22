@@ -15,5 +15,5 @@ Experience
 </div>
 
 <div class="image-holder">
-<img src="Home_files/ContactSheet-006_2.jpg" alt="Paul Binkley"/>
+<img src="{{ 'pb_head.jpg' | prepend: '/assets/images/' | relative_url }}" alt="Paul Binkley"/>
 </div>

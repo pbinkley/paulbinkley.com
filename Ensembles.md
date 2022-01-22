@@ -16,5 +16,5 @@ layout: page
 
 </div>
 
-Since his early days playing in jazz and rock bands, Paul has loved playing with other musicians.  He regularly performs with the various ensembles listed to the right.
+Since his early days playing in jazz and rock bands, Paul has loved playing with other musicians. He regularly performs with the various ensembles listed to the right.
 

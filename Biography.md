@@ -5,7 +5,7 @@ layout: page
 
 <div class="side-block" markdown=1>
 
-<img src="Biography_files/shapeimage_2.png">
+<img src="{{ 'pb_head_tux.png' | prepend: '/assets/images/' | relative_url }}">
 
 </div>
 
@@ -15,7 +15,7 @@ At the same time, Paul has built a local reputation as a jazz artist of taste an
 
 Also a proficient mandolinist, Paul is a founding member of the Modern Mandolin Quartet which has done concert tours in the US and Europe and recorded four CD’s for Windham Hill Records and two for Dorian Sono Luminus.
 
-These three areas of expertise (classical guitar, jazz guitar and mandolin) make Paul a musician in demand.  A favorite activity is playing as a freelance musician either solo or with friends, often at the wineries in the Napa Valley or at the hotels in downtown San Francisco.
+These three areas of expertise (classical guitar, jazz guitar and mandolin) make Paul a musician in demand. A favorite activity is playing as a freelance musician either solo or with friends, often at the wineries in the Napa Valley or at the hotels in downtown San Francisco.
 
 As a teacher, Paul works at the San Francisco Conservatory of Music Preparatory Department, at The Hamlin School and at his own studio.
 

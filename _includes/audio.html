@@ -1,8 +1,8 @@
 
-<div class="audioPlayer" style="background-image: url('{{ include.image }}'); width: {{ include.w }}px; height: {{include.h }}px;" title="{{ include.title }}">
+<div class="audioPlayer" style="background-image: url('{{ include.track | prepend: "/assets/images/" | append: ".jpg" | relative_url }}'); width: {{ include.w }}px; height: {{include.h }}px;" title="{{ include.title }}">
   <audio controls>
-    <source src="{{ include.audio }}.mp3" type="audio/mpeg">
-    <source src="{{ include.audio }}.ogg" type="audio/ogg">
+    <source src="{{ include.track | prepend: '/assets/media/' | relative_url }}.mp3" type="audio/mpeg">
+    <source src="{{ include.track | prepend: '/assets/media/' | relative_url }}.ogg" type="audio/ogg">
   Your browser does not support the audio tag.
   </audio> 
 </div>

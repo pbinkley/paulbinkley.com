@@ -4,7 +4,7 @@ layout: page
 ---
 
 <div class="side-block" markdown=1>
-<img src="Jazz_Guitar_files/photoforgephoto.jpg" alt="Paul outdoors with his guitar case">
+<img src="{{ 'pb_standing.jpg' | prepend: '/assets/images/' | relative_url }}" alt="Paul outdoors with his guitar case">
 
 **Jazz Guitar**
 - Swing Tunes
@@ -15,12 +15,12 @@ layout: page
 
 Paul studied jazz guitar at Berklee School of Music with William Leavitt and Dave Spadazzi. He regularly performs jazz as a solo artist or with friends. Repertoire includes jazz standards, Brazilian bossa nova and contemporary tunes. To hear samples please click the links below.
 
-{% include audio.html w="130" h="135" image="Jazz_Guitar_files/All-the-Things-You-Are.jpg" audio="Media/All%20The%20Things%20You%20Are" title="All the Things You Are" %}
-{% include audio.html w="130" h="135" image="Jazz_Guitar_files/night-and-day.jpg" audio="Media/Night%20and%20Day" title="Night and Day" %}
-{% include audio.html w="130" h="135" image="Jazz_Guitar_files/Savoy.jpg" audio="Media/Stompin%20at%20the%20Savoy" title="Stompin' at the Savoy" %}
-{% include audio.html w="130" h="135" image="Jazz_Guitar_files/besame.jpg" audio="Media/besamemucho-2" title="Besame Mucho" %}
-{% include audio.html w="130" h="135" image="Jazz_Guitar_files/meditation.jpg" audio="Media/meditation-3" title="Meditation" %}
-{% include audio.html w="130" h="135" image="Jazz_Guitar_files/andilove.jpg" audio="Media/andiloveher" title="And I Love Her" %}
+{% include audio.html w="130" h="135" track="all-the-things-you-are" title="All the Things You Are" %}
+{% include audio.html w="130" h="135" track="night-and-day" title="Night and Day" %}
+{% include audio.html w="130" h="135" track="stompin-at-the-savoy" title="Stompin' at the Savoy" %}
+{% include audio.html w="130" h="135" track="besame-mucho" title="Besame Mucho" %}
+{% include audio.html w="130" h="135" track="meditation" title="Meditation" %}
+{% include audio.html w="130" h="135" track="and-i-love-her" title="And I Love Her" %}
 
 ## Sample Repertoire List
 
