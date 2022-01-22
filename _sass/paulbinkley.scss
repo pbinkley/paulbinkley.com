@@ -92,6 +92,10 @@ article {
   padding: 1em;
 }
 
+.image-holder {
+  text-align: center;
+}
+
 @include media-query($on-palm) {
   .side-block {
     float: none;

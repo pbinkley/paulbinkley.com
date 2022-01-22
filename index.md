@@ -14,4 +14,6 @@ Experience
 
 </div>
 
-![](Home_files/ContactSheet-006_2.jpg)
+<div class="image-holder">
+<img src="Home_files/ContactSheet-006_2.jpg" alt="Paul Binkley"/>
+</div>
